@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 # Welcome! I'm Igor
 
+<img src="https://media4.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif">
+
+
 Hi! My name is **Igor Pereira Vieira**.
 I was born in São Paulo :brazil:, and since i was a little boy i had a knack for the tech world, and specially the STEM side of life. 
 I love to learn new technologies and i'm always fascinated by how things work. 
