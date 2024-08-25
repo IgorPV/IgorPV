@@ -27,8 +27,6 @@ I hope to share knowledge with as many people as possible, as well as developing
 
 # My Activity
 
-![IgorPV GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPV&show_icons=true&theme=merko)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPV&layout=compact)
 
 # Find Me @
